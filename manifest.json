@@ -3,6 +3,10 @@
     "name": "Browsershot",
     "version": "0.1",
     "description" : "Screenshot the page and display it in a browser-like container",
+    "icons": {
+      "40": "icon-40.png",
+      "80": "icon-80.png"
+    },
     "content_scripts": [
         {
           "js": ["./src/content.js"],
