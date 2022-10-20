@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Browsershot",
+    "version": "0.1",
+    "description" : "Screenshot the page and display it in a browser-like container",
+    "content_scripts": [
+        {
+          "js": ["./src/content.js"],
+          "matches": [
+            "<all_urls>"
+          ]
+        }
+    ],
+    "permissions": [
+      "activeTab",
+      "tabs",
+      "scripting"
+    ],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "/src/screen.js"
+    },
+    "action": {
+      "default_title": "Screenshot this page"
+    }
+}
