@@ -1,4 +1,4 @@
-![Browsershot, a stylized screenshot tool. Simply click to take a screenshot, style it and save it in seconds](https://anonfiles.com/3bz09dD6y1/Browsershot_png)
+![Browsershot, a stylized screenshot tool. Simply click to take a screenshot, style it and save it in seconds](https://cdn-139.anonfiles.com/3bz09dD6y1/09e96681-1666294868/Browsershot.png)
 
 # Browsershot
 
