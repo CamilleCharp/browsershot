@@ -1,3 +1,5 @@
+![Browsershot, a stylized screenshot tool. Simply click to take a screenshot, style it and save it in seconds](https://anonfiles.com/3bz09dD6y1/Browsershot_png)
+
 # Browsershot
 
 ## Stylised screenshot solution
