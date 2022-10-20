@@ -6,3 +6,10 @@ This chrome extension goal is to allow to easily take a screenshot and put it in
 
 
 Use the chrome extension api to capture the tab and html2canvas to download the final image.
+
+### Local Installation instructions
+
+1. **Clone** this repo
+2. Go to the [chrome extension management page](chrome://extensions/)
+3. Click on **Load Unpacked** and select the clone folder.
+4. **Done !**

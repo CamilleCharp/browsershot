@@ -7,14 +7,6 @@
       "40": "icon-40.png",
       "80": "icon-80.png"
     },
-    "content_scripts": [
-        {
-          "js": ["./src/content.js"],
-          "matches": [
-            "<all_urls>"
-          ]
-        }
-    ],
     "permissions": [
       "activeTab"
     ],
